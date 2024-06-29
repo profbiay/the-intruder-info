@@ -92,6 +92,22 @@ nếu có thì phải tắt đèn và bấm nút xanh để khóa cửa cho đ�
 
 // Chapter 6
 
+* Sơ lược :
+
 - Người chơi vào vai 1 người bạn cũ của nhân vật chính , vì quá điên cuồng ám ảnh về tên kia nên anh ta nhờ bạn mình khám phá xem trong khách sạn này có kẻ sát nhân đấy không, vì có tin trên báo nói rằng kẻ xâm nhập đang lẩn trốn trong một khu rừng gần khách sạn
 
--  
+* Cách chơi :
+
+- Sau khi có bộ mã khóa , bạn bước vào trong căn phòng
+
+- Hãy cẩn thận vì sẽ có 4 thực thể cần tránh nếu không sẽ chết. Bạn sẽ có tối đa 3 mạng.
+
+- Thực thể đầu tiên sẽ làm cho mọi thứ cúp điện hoặc nó sẽ phát ra tiếng bò. Bạn cần phải trốn dưới giường và tắt đèn nếu không sẽ CHẾT. Sau khi thực thể đó biến mất ( sau khi tiếng đóng cửa tầm 10-15s ) thì hãy ngay lập tức vào ống thông gió và bò đến phòng cấp điện và bật cầu dao lại ( nếu cúp điện ). Sau đó quay về phòng.
+
+- Thực thể thứ 2 là tiếng radio. Khi nghe tiếng radio thì ngay lập tức trốn trong nhà vệ sinh. Nhớ khi vào thì hãy đừng nhìn về phía sau và đi lùi nếu không bị mất 1 tim. Khi đóng cửa cứ đứng im chỗ cửa là được. Khi hết tiếng radio thì ra ngoài.
+
+- Thực thể thứ ba là tivi bị nhiễu và phát ra tiếng ồn ào. Ngay lập tức tìm Remote TV trong vòng 30s nếu không sẽ bị chết.
+
+- Thực thể cuối cùng là tiếng cào dưới giường , khi nghe nó hãy vào nhà vệ sinh trốn nếu không sẽ chết.
+
+- Cứ làm liên tục cho đến khi con số TV đạt 7428
