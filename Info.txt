@@ -1,0 +1,71 @@
+// Chapter 1
+
+* Sơ lược :
+
+-  Game được làm trên nền tảng Roblox , max player phòng cốt truyện là 4 người. Còn phần chọn chapter là 50 người. Gồm 6 chapter , tổng thời lượng 6 chap là. : 1 tiếng 45 phút ~
+
+- Nhân vật vào vai 1 người đi làm về nhà lúc tối , và bỗng nhiên tiếng chuông điện thoại reo lên bảo rằng có kẻ đột nhập đã vào nhà. Nên vì thế phải làm mọi cách để sóng sót
+
+- Game có lối chơi kinh dị nhưng không có jumpscares , nhưng nỗi sợ sẽ từ từ dâng trào ( y hệt analog horor )
+
+* Cách chơi :
+
+- Sẽ có 2 thanh là "Độ lo lắng" và "Nhận thức" , nếu để 1 trong 2 thanh đạt 100% thì bạn chết
+
+-  Cách để thanh lo lắng giảm là cần phải kiểm tra camera , bật đèn sáng. Thanh còn lại thì cần phải tắt tiếng chuông điện thoại khi nó kêu lên
+
+- Luôn kiểm tra camera , khi kẻ xâm nhập đến cam 6 thì hãy tắt đèn và vô tủ trốn , khi nghe tiếng hắn vào phòng và mở tù ra thì hãy giữ im lặng , đừng di chuyển nếu không sẽ chết.
+
+- Khi kẻ xâm nhập đã đi ra ngoài ( thể hiện ở chỗ là tiếng đóng cửa ) thì ngay lập tức cần ra ngoài bật đèn và check cam vì lúc đó độ lo lắng của bạn gần như 100% , nếu không làm có thể chết
+
+- Ngoài ra còn có event cúp điện , cần phải thay cầu dao
+
+-  Khi hoàn thành tất cả 5 đêm , bạn thắng
+
+
+
+// Chapter 2 :
+
+*Sơ lược
+
+- Người chơi vào vai thanh niên ở chapter 1 nhưng là vào vài ngày sau khi đi làm , lúc đó cả công ty thông báo có kẻ xâm nhập vào nên mọi người cần phải trốn.
+
+*Cách chơi : 
+
+- Gameplay cũng giống chapter 1 nhưng có điều thay vì phải tắt chuông điện thoại thì phải tắt báo động
+
+
+
+
+// Chapter 3 :
+
+*Sơ lược :
+
+- Thanh niên kia liên tục ám ảnh về kẻ xâm nhập vào nhà và công ti mình nên quyết định lùng sục hang ổ của hắn
+
+* Cách chơi :
+
+- Nhưng lại vô tình lạc vào khu mỏ bỏ hoang và kẻ xâm nhập đang ở dưới đó , buộc người chơi phải sửa đủ 5 máy phát điện để kích hoạt thang máy
+
+-  Trong khi sửa lại máy phát điện , kẻ xâm nhập có thể lại gần và giết người chơi , vì thế cần trốn tủ ( mạng sống quý hơn phần trăm sửa máy phát điện ) 
+
+- Sau khi kích hoạt máy phát điện, đồng thời cũng kích hoạt quả bom C4 nên chỉ có 25 giây để tẩu thoát nếu không sẽ chết
+
+
+
+// Chapter 4 : 
+
+* Sơ lược :
+
+Sau khi lên mặt đất , đầu thanh niên này bị chấn động mạnh dẫn đến hoang tưởng và ám ảnh về tên tội phạm đó. Người dân đã đưa anh ta vào bệnh viện tâm thần
+
+Nhân vật chính thức dậy trong 1 căn phòng của bệnh viện tâm thần , anh ấy bảo cần tìm mọi người vì trong đây không có 1 bóng ai hết.
+
+* Cách chơi : 
+
+- Nhân vật chính phiêu lưu , khám phá các căn phòng và tìm chìa khóa để thoát khỏi đây
+
+- Trong lúc tìm đường thì anh ấy thấy một căn phòng nhưng phải cần phòng ấy cần phải có đủ điện mới vào được
+
+- Trong lúc chờ điện được sạc đầy , kẻ xâm nhập đã xuất hiện xung quanh bệnh viện nên cần phải check cam xem có kẻ xâm nhập hay không
+nếu có thì phải tắt đèn và bấm nút xanh để khóa cửa cho đến khi pin được sạc đầy 100%
