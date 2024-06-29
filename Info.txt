@@ -69,3 +69,7 @@ Nhân vật chính thức dậy trong 1 căn phòng của bệnh viện tâm th�
 
 - Trong lúc chờ điện được sạc đầy , kẻ xâm nhập đã xuất hiện xung quanh bệnh viện nên cần phải check cam xem có kẻ xâm nhập hay không
 nếu có thì phải tắt đèn và bấm nút xanh để khóa cửa cho đến khi pin được sạc đầy 100%
+
+- Sau khi pin được sạc đầy , hãy nhanh chóng tìm đường thoát khỏi đây ( do không muốn spoil nên hãy tự tìm đường nhé )
+
+// Chapter 5
